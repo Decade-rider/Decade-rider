@@ -4,7 +4,7 @@
 
 ## 🛠️ 技术技能
 - **编程语言**：Python, MATLAB, R
-- **机器学习**：Scikit-learn, PyTorch, 
+- **机器学习**：Scikit-learn, PyTorch
 - **数据分析**：Pandas, NumPy, Matplotlib
 - **主题建模**：Gensim, Bertopic
 - **其他工具**：Git, Jupyter, LaTeX, VS Code
