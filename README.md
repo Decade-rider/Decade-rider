@@ -1,7 +1,7 @@
 # 👋 欢迎来到我的GitHub主页
 
 ## 🛠️ 技术技能
-- **编程语言**：Python, R
+- **编程语言**：Python, Matlab, R
 - **机器学习**：Scikit-learn, PyTorch, 
 - **数据分析**：Pandas, NumPy, Matplotlib
 - **主题建模**：Gensim, Bertopic
