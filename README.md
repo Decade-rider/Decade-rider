@@ -1,3 +1,13 @@
+<!--
+ * @Author: Decade-rider 1161949421@qq.com
+ * @Date: 2025-07-11 14:51:24
+ * @LastEditors: Decade-rider 1161949421@qq.com
+ * @LastEditTime: 2025-07-12 14:29:14
+ * @FilePath: \Decade-rider\Decade-rider\README.md
+ * @Description: 
+ * 
+ * Copyright (c) 2025 by 潘崇林, All Rights Reserved. 
+-->
 # 👋 欢迎来到我的GitHub主页
 
 我是来自桂林电子科技大学管理科学与工程专业的在读研究生。
@@ -17,4 +27,5 @@
 
 ## 📊 GitHub统计
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decade-rider)](https://github.com/Decade-rider/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decade-rider&hide=Roff,Perl,shell&layout=donut)](https://github.com/Decade-rider/github-readme-stats)
+[![Decade-rider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decade-rider&show_icons=true)](https://github.com/Decade-rider/github-readme-stats)
