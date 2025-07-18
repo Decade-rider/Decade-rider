@@ -2,7 +2,7 @@
  * @Author: Decade-rider 1161949421@qq.com
  * @Date: 2025-07-11 14:51:24
  * @LastEditors: Decade-rider 1161949421@qq.com
- * @LastEditTime: 2025-07-18 14:10:51
+ * @LastEditTime: 2025-07-18 14:12:14
  * @FilePath: \Decade-rider\Decade-rider\README.md
  * @Description: 
  * 
@@ -27,5 +27,5 @@
 
 ## 📊 GitHub统计
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decade-rider&hide=Roff,Perl,shell&layout=donut)](https://github.com/Decade-rider/github-readme-stats)
-[![Decade-rider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decade-rider&show_icons=true)](https://github.com/Decade-rider/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decade-rider&hide=Roff,Perl,shell&layout=donut)
+![Decade-rider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decade-rider&show_icons=true)
