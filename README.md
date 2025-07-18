@@ -2,7 +2,7 @@
  * @Author: Decade-rider 1161949421@qq.com
  * @Date: 2025-07-11 14:51:24
  * @LastEditors: Decade-rider 1161949421@qq.com
- * @LastEditTime: 2025-07-12 14:29:14
+ * @LastEditTime: 2025-07-18 14:10:51
  * @FilePath: \Decade-rider\Decade-rider\README.md
  * @Description: 
  * 
@@ -15,7 +15,7 @@
 ## 📚 研究方向
 
 - **人智交互**：研究社交平台上机器人与人类用户之间的交互及其影响
-- **观点演化**：分析社交平台上用户观点的变化和发展
+- **观点演化**：分析社交平台上用户观点的变化和影响
 
 ## 🛠️ 技术技能
 
