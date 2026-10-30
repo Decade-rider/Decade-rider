@@ -28,4 +28,5 @@
 
 ## 📊 GitHub统计
 
+![GitHub stats](./github-stats.svg)
 ![Top Langs](./github-languages.svg)
