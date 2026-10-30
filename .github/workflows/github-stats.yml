@@ -39,6 +39,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_categories: data, markup, programming
           plugin_languages_limit: 8
-          plugin_languages_colors: github
+          plugin_languages_colors: "html:#e34c26, jupyter notebook:#f37626, scss:#c6538c, python:#3572a5, svg:#ff9900, javascript:#f1e05a, yaml:#cb171e, css:#563d7c"
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: Roff, Perl, Shell
