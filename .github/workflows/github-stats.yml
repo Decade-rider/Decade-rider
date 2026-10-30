@@ -19,6 +19,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-stats.svg
+          user: Decade-rider
           token: ${{ secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories
@@ -27,13 +28,16 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: github-languages.svg
+          user: Decade-rider
           token: ${{ secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_languages: yes
           plugin_languages_indepth: yes
-          commits_authoring: Decade-rider, Pan Chonglin, Chonglin Pan
+          plugin_languages_indepth_custom: Decade-rider/Decade-rider, Decade-rider/DTM_gensim, Decade-rider/BERTopic_TopicModeling, Decade-rider/Parallel_Plot, Decade-rider/WeiboSentiment
+          commits_authoring: Decade-rider, Pan Chonglin, Chonglin Pan, 106478206+Decade-rider@users.noreply.github.com, 1161949421@qq.com
           plugin_languages_sections: most-used
+          plugin_languages_categories: data, markup, programming
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
           plugin_languages_ignored: Roff, Perl, Shell
