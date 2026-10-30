@@ -27,5 +27,5 @@
 
 ## 📊 GitHub统计
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Decade-rider&hide=Roff,Perl,shell&layout=donut)
-![Decade-rider's GitHub stats](https://github-readme-stats.vercel.app/api?username=Decade-rider&show_icons=true)
+![GitHub stats](./github-stats.svg)
+![Top Langs](./github-languages.svg)
