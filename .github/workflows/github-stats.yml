@@ -22,6 +22,8 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
 
       - name: Generate language statistics
         uses: lowlighter/metrics@latest
