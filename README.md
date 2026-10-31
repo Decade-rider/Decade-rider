@@ -28,4 +28,4 @@
 
 ## 📊 GitHub统计
 
-![Top Langs](./github-languages.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Decade-rider&hide_progress=true&langs_count=4&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Decade-rider&hide_progress=true&langs_count=4&theme=light_github)[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Decade-rider&include_all_commits=true&theme=light_github)](https://github-stats-extended.vercel.app/api?username=Decade-rider&include_all_commits=true&theme=light_github)
